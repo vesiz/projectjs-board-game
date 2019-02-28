@@ -23,5 +23,4 @@ Player.prototype.removeHero = function(){
 
 };
 
-//var player1 = new Player(1);
 
